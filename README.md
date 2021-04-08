@@ -13,7 +13,7 @@
 [website]: https://quintinhull.github.io/#
 [linkedin]: https://www.linkedin.com/in/quintinhull92/
 
-⚡ Fun fact #1: I was once named in The Missouri Times' 30 Under 30. A list compiled of young professionals shaping the next generation of politics!
+⚡ Fun fact #1: I was named in The Missouri Times' 30 Under 30. A list compiled of young professionals shaping the next generation of politics!
 
 ⚡ Fun fact #2: When I worked as a Major Gift Officer at the University of Missouri we succesfully completed a $1.41 billion dollar campaign. A rare feat for public universities!
 
