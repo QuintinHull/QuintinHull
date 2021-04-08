@@ -4,7 +4,9 @@
 
 JavaScript, Python, React, Redux, Express, Flask, PostgreSQL, SQLAlchemy, Sequelize, Heroku, Git, AWS, NodeJS, HTML5, CSS3
 
-💬 Ask me about my previous work experience in government, politics, and fundraising...
+#### 💬 Ask me about... 
+
+My previous work experience in government, politics, and fundraising...
 
 #### 📫 Reach out ⤵️
 
