@@ -1,10 +1,10 @@
-## Welcome to Quintin Hull's GitHub profile! 👋
+## 👋 Welcome to Quintin Hull's GitHub profile! 👋
 
 #### Languages and Skills 🛠 
 
 JavaScript, Python, React, Redux, Express, Flask, PostgreSQL, SQLAlchemy, Sequelize, Heroku, Git, AWS, NodeJS, HTML5, CSS3
 
-#### 💬 Ask me about... 
+#### 💬  Ask me about... 
 
 My previous work experience in government, politics, and fundraising...
 
@@ -15,7 +15,7 @@ My previous work experience in government, politics, and fundraising...
 [website]: https://quintinhull.github.io/#
 [linkedin]: https://www.linkedin.com/in/quintinhull92/
 
-#### ☮️ Pronouns: 
+#### ☮️   Pronouns: 
 
 he/him/his
 
