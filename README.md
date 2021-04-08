@@ -4,7 +4,9 @@
 
 💬 Ask me about my previous work experience in government, politics, and fundraising...
 
-📫 Reach out: [<img alt="quintinhull.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website] [<img alt="quintinhull | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin] [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:quintinhull92@gmail.com)
+📫 Reach out ⤵️
+
+[<img alt="quintinhull.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website] [<img alt="quintinhull | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin] [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:quintinhull92@gmail.com)
 
 ☮️ Pronouns: he/him/his
 
