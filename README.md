@@ -1,4 +1,4 @@
-## 👋 Welcome to Quintin Hull's GitHub profile! 👋
+## 👋 Welcome to my GitHub profile! 👋
 
 #### Languages and Skills 🛠 
 
