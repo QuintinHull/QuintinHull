@@ -1,4 +1,4 @@
-## 👋 Welcome to my GitHub profile! 👋
+## 👋 Hi, I'm Quintin. Welcome to my GitHub profile! 👋
 
 #### Languages and Skills 🛠 
 
