@@ -2,7 +2,7 @@
 
 #### Languages and Skills 🛠 
 
-JavaScript, Python, React, Redux, Express, Flask, PostgreSQL, SQLAlchemy, Sequelize, Heroku, Git, AWS, NodeJS, HTML5, CSS3, Bootstrap.
+JavaScript | Python | React | Redux | Express | Node | Flask | SQL | PostgreSQL | SQLAlchemy | Sequelize | Heroku | Git | HTML5 | CSS3 | Bootstrap | Pug
 
 #### 💬  Ask me about... 
 
