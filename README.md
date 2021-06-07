@@ -6,7 +6,7 @@ JavaScript | Python | React | Redux | Express | Node | Flask | SQL | PostgreSQL 
 
 #### 💬  Ask me about... 
 
-...my previous work experience in government, politics, and fundraising...
+My previous work experience in government, politics, and fundraising...
 
 #### 📫 Reach out ⤵️
 
@@ -25,7 +25,7 @@ I was named in The Missouri Times' 30 Under 30. A list compiled of young profess
 
 #### ⚡ Fun fact #2: 
 
-When I worked as a Major Gift Officer at the University of Missouri we succesfully completed a 1.41 billion dollar campaign. A rare feat for public universities!
+As a Major Gift Officer I was part of a team that succesfully completed a 1.41 billion dollar campaign!
 
 # [![Quintin's GitHub stats](https://github-readme-stats.vercel.app/api?username=quintinhull)](https://github.com/quintinhull/github-readme-stats)
 
