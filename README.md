@@ -17,7 +17,7 @@ My previous work experience in government, politics, and fundraising...
 
 #### ☮️   Pronouns: 
 
-he/him/his
+He/Him/His
 
 #### ⚡ Fun fact #1: 
 
