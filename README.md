@@ -14,9 +14,9 @@ My previous work experience in government, politics, and fundraising...
 
 #### 👀 Visit ⤵️
 
-[website](https://quintinhull.github.io/)
+[portfolio website](https://quintinhull.github.io/)
 |
-[linkedin](https://www.linkedin.com/in/quintinhull92/)
+[linkedin profile](https://www.linkedin.com/in/quintinhull92/)
 
 #### ☮️   Pronouns: 
 
