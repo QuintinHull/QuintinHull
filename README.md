@@ -2,7 +2,7 @@
 
 #### Languages and Skills 🛠 
 
-JavaScript | Python | SQL | React | Redux | Express | Node | Flask | SQLite | PostgreSQL | SQLAlchemy | Sequelize | TypeScript | Groovy | Jest | SCSS | Spock | Grails | Heroku | Git | HTML5 | CSS3 | Bootstrap | Pug | Mocha | AWS | Google Maps API | Visual Studio Code | Postman | Postbird
+JavaScript | Python | SQL | React | Redux | Express | Node | Flask | SQLite | PostgreSQL | SQLAlchemy | Sequelize | TypeScript | Groovy | Jest | SCSS | Spock | Grails | Heroku | Jenkins | Git | HTML5 | CSS3 | Bootstrap | Pug | Mocha | AWS | Google Maps API | Visual Studio Code | Postman | Postbird
 
 #### 💬  Ask me about... 
 
